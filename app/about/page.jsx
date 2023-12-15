@@ -7,9 +7,10 @@ const page = () => {
             <section>
                 <p><b>This is a website made by RTR as a practice to learn nextjs13
                     To know more about my projects and me follow me on social media</b></p>
-                <a href='https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/'>       LinkedIn     </a>
-                <a href='https://github.com/tejartr7'>    Github   </a>
-                <a href='https://leetcode.com/charlie-tej-123/'>    LeetCode   </a>
+                <br></br>
+                <h2>If you want a website for yourself you can contact me!!!</h2>
+                <a href='https://twitter.com/raghu_rtr'>Twitter</a>
+                <a href='mailto:codworldrtr7@gmail.com'>Mail</a>
             </section>
         </div>
     )
