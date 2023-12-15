@@ -9,8 +9,8 @@ const page = () => {
                     To know more about my projects and me follow me on social media</b></p>
                 <br></br>
                 <h2>If you want a website for yourself you can contact me!!!</h2>
-                <a href='https://twitter.com/raghu_rtr'>Twitter</a>
-                <a href='mailto:codworldrtr7@gmail.com'>Mail</a>
+                <a href='https://twitter.com/raghu_rtr'><b> Twitter </b></a>
+                <a href='mailto:codworldrtr7@gmail.com'><b> Mail </b></a>
             </section>
         </div>
     )
